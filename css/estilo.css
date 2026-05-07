@@ -29,7 +29,6 @@
   }
   .errou {
     text-align: center;
-    font-size: 100px;
     color: white;
     background-color: red;
     width: 150px;
@@ -37,4 +36,5 @@
     border: 15px solid rgb(76, 38, 46);
     padding: 10px;
     margin: 20px;
+    background-image: url('dog-looks-sad.jpg')
   }
